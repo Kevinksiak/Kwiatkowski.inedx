@@ -1,1 +1,1 @@
-# Kwiatkowski.inedx
+# Kwiatkowski.index
